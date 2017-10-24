@@ -5,6 +5,7 @@ Github page: https://github.com/emanuelesansebastiano
 
 Date: August, 2017
 
+
 PROJECT PURPOSE:
 Library implementing potential field planner algorithm.
 
